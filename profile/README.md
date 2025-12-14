@@ -2,8 +2,7 @@
 ### Where minds build the next minds.
 
 MetaCortex Dynamics develops self-governing intelligence architectures:
-systems that can reason, adapt, recover, and evolve under
-invariant-preserving constraints.
+
 
 ## Core projects
 - **Devon OS** — cognitive operating system with advanced governance,
